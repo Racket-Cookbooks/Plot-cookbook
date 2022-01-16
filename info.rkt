@@ -1,7 +1,7 @@
 #lang info
 (define collection "plot-cookbook")
 (define deps '("base"))
-(define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
+(define build-deps '("scribble-lib" "racket-doc" "rackunit-lib" "infix" "threading" "math/statistics"))
 (define scribblings '(("scribblings/plot-cookbook.scrbl" ())))
 (define pkg-desc "Description Here")
 (define version "0.0")
