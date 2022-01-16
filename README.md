@@ -7,6 +7,7 @@ Sarting simple; links to plots on Pasterack or gists
 * [Draw a graph of cos and deriv^3(cos)](#draw-a-graph-of-cos-and-deriv3cos)
 * [Violin plot](#violin-plot)
 * [Sines](#sines)
+* [Logo plot](#logo-plot)
 
 ***
 
