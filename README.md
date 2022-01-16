@@ -1,8 +1,16 @@
 # Plot-cookbook
 
-Sarting simple; links to plots on Pasterack
+Sarting simple; links to plots on Pasterack or gists
 
-## draw a graph of cos and deriv^3(cos)
+## Table of contents
+
+* [Draw a graph of cos and deriv^3(cos)](#draw-a-graph-of-cos-and-deriv3cos)
+* [Violin plot](#violin-plot)
+* [Sines](#sines)
+
+***
+
+## Draw a graph of cos and deriv^3(cos)
 
 ![cos and deriv^3(cos) plot](scribblings/images/cosandderiv.png)
 
