@@ -124,13 +124,56 @@ http://pasterack.org/pastes/66996
 
 ![Sines plot](scribblings/images/sines.png)
 
+```scheme
+#lang at-exp racket
+(require infix
+         plot/pict
+         threading)
+
+(define (f a x) @${sin[(10+a)*x]})
+(define (g a x) @${x / (a+5)})
+
+(parameterize ([line-width 2]
+               [plot-x-label "Degrees"]
+               [plot-y-label "Magnitude"]
+               [plot-y-ticks (linear-ticks #:number 5)]
+               [plot-width 800]
+               [plot-aspect-ratio 2]
+               [plot-legend-anchor 'outside-right-top]
+               [plot-pen-color-map 'tab10])
+  (plot #:x-min 0
+        #:x-max 50
+        (for/list ([a (inclusive-range 1 6)])
+          (function (λ~>> degrees->radians
+                          (f a)
+                          (g a))
+                    #:color (sub1 a)
+                    #:label (~a "1/" (+ a 5) " sin " (+ 10 a) "x")))))
+                    
+```
+
 https://gist.github.com/hunkyjimpjorps/9e512686230c6c1472f4a0d73b81d9dc
 
 ## logo plot
 
+
 ![Sines plot](scribblings/images/logo-plot.png)
 
+```scheme
+#lang racket
 
+(require plot)
 
+(let ([blue '(0 0 164)] [red '(164 0 0)])
+  (parameterize ([plot-decorations? #f])
+    (plot3d
+     (list
+      (surface3d (λ(x y)(/ x 10)) 0 5 0 1 #:color red #:line-color red)
+      (surface3d (λ(x y)(- 1 (/ (+ 1 (exp (- 5 x)))))) 0 10 0 1 #:color blue #:line-color blue))
+     #:angle 335 #:altitude 5)))
+     
+```
+
+https://github.com/standard-fish/summer-competititon-2019/blob/c5af58e2b1a55733e5e66ca550ebb73420737c4c/entries/Metaxal/racket-logo-plot.rkt
 
 
