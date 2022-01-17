@@ -14,8 +14,7 @@ Contributions are accepted on the condition they are licenced under the same ter
 * [Logo plot](#logo-plot)
 * [Iso](#Iso)
 
-
-<table>
+<table  align="center">
   <tr>
     <td align="center"><a href="#draw-a-graph-of-cos-and-deriv3cos"><img src="scribblings/images/cosandderiv.png" width="250px;" alt=""/><br /><sub><b>Draw a graph of cos and deriv^3(cos)</b></sub></a><br /></td>
     <td align="center"><a href="#violin-plot"><img src="scribblings/images/violin.png" width="250px;" alt=""/><br /><sub><b>Violin plot</b></sub></a><br /></td>
