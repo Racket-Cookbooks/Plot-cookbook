@@ -1,5 +1,5 @@
 # Plot-cookbook
-
+<img src="scribblings/images/logo-plot.png" width="200px;" alt="" align="right"/>
 Welcome to the Racket Plot Cookbook. This is a growing collection of recipes for the tastiest plots.
 
 If you would like to contribute please create an issue or pull request with your contribution. Please include image, code, and short description.
@@ -17,13 +17,13 @@ Contributions are accepted on the condition they are licenced under the same ter
 
 <table>
   <tr>
-    <td align="center"><a href="#draw-a-graph-of-cos-and-deriv3cos"><img src="scribblings/images/cosandderiv.png" width="150px;" alt=""/><br /><sub><b>Draw a graph of cos and deriv^3(cos)</b></sub></a><br /></td>
-    <td align="center"><a href="#violin-plot"><img src="scribblings/images/violin.png" width="150px;" alt=""/><br /><sub><b>Violin plot</b></sub></a><br /></td>
-        <td align="center"><a href="#sines"><img src="scribblings/images/sines.png" width="150px;" alt=""/><br /><sub><b>Sines</b></sub></a><br /></td>
-        <td align="center"><a href="#Iso"><img src="scribblings/images/Iso.png" width="150px;" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
+    <td align="center"><a href="#draw-a-graph-of-cos-and-deriv3cos"><img src="scribblings/images/cosandderiv.png" width="200px;" alt=""/><br /><sub><b>Draw a graph of cos and deriv^3(cos)</b></sub></a><br /></td>
+    <td align="center"><a href="#violin-plot"><img src="scribblings/images/violin.png" width="200px;" alt=""/><br /><sub><b>Violin plot</b></sub></a><br /></td>
+        <td align="center"><a href="#sines"><img src="scribblings/images/sines.png" width="200px;" alt=""/><br /><sub><b>Sines</b></sub></a><br /></td>
+        <td align="center"><a href="#Iso"><img src="scribblings/images/Iso.png" width="200px;" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
   </tr>
   <tr>
-      <td align="center"><a href="#logo-plot"><img src="scribblings/images/logo-plot.png" width="150px;" alt=""/><br /><sub><b>Logo plot</b></sub></a><br /></td>
+      <td align="center"><a href="#logo-plot"><img src="scribblings/images/logo-plot.png" width="200px;" alt=""/><br /><sub><b>Logo plot</b></sub></a><br /></td>
 
   <tr>
 </table>
