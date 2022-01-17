@@ -1,6 +1,10 @@
 # Plot-cookbook
 
-Sarting simple; links to plots on Pasterack or gists
+Welcome to the Racket Plot Cookbook. This is a growing collection of recipes for the tastiest plots.
+
+If you would like to contribute please create an issue or pull request with your contribution. Please include image, code, and short description.
+
+Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
 
 ## Table of contents
 
