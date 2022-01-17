@@ -6,13 +6,7 @@ If you would like to contribute please create an issue or pull request with your
 
 Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
 
-## Table of contents
-
-* [Draw a graph of cos and deriv^3(cos)](#draw-a-graph-of-cos-and-deriv3cos)
-* [Violin plot](#violin-plot)
-* [Sines](#sines)
-* [Logo plot](#logo-plot)
-* [Iso](#Iso)
+## Plots
 
 <table  align="center">
   <tr>
