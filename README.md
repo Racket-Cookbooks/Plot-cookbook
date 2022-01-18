@@ -1,6 +1,6 @@
 # Plot-cookbook
 
-<img src="scribblings/images/logo-plot.png" width="200px;" alt="" align="right"/>
+<img src="examples/logo/logo-plot.png" width="200px;" alt="" align="right"/>
 
 [![Racket](https://img.shields.io/badge/-Racket-darkred?logo=racket)](https://racket-lang.org)
 [![Discourse users](https://img.shields.io/discourse/users?label=Discuss%20on%20Racket%20Discourse&logo=racket&server=https%3A%2F%2Fracket.discourse.group)](https://racket.discourse.group/)
