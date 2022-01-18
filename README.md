@@ -33,6 +33,4 @@ Contributions are accepted on the condition they are licenced under the same ter
   <tr>
 </table>
 
-***
-59ECFEE5-B9BF-40BA-A2DA-BC3E0655F5C3.png
 
