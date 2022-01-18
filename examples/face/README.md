@@ -1,6 +1,8 @@
 # Face
 
 
+![face plot 3d ribbon](59ECFEE5-B9BF-40BA-A2DA-BC3E0655F5C3.png)
+
 ```scheme
 #lang racket/base
 
