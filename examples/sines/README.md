@@ -2,7 +2,7 @@
 
 
 
-![Sines plot](scribblings/images/sines.png)
+![Sines plot](sines.png)
 
 ```scheme
 #lang at-exp racket
