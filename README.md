@@ -1,4 +1,4 @@
-# Plot-cookbook
+# Racket Plot Cookbook
 
 <img src="examples/logo/logo-plot.png" width="200px;" alt="" align="right"/>
 
