@@ -22,6 +22,7 @@ For more about Plot see @racketmodname[plot].
 
 @include-section["violin.scrbl"]
 
+@include-section["basic-cook.scrbl"]
 
 @close-plot-eval[]
 
