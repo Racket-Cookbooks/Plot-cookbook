@@ -27,7 +27,7 @@ Contributions are accepted on the condition they are licenced under the same ter
   <tr>
   <tr>
     <td align="center"><a href="examples/face/README.md"><img src="examples/face/59ECFEE5-B9BF-40BA-A2DA-BC3E0655F5C3.png" width="300px" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
-    <td align="center"><a href="examples/face/README.md"><img src="examples/face/59ECFEE5-B9BF-40BA-A2DA-BC3E0655F5C3.png" width="300px" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
+    <td align="center"><a href="examples/f2/README.md"><img src="examples/f2/f2.png" width="300px" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
     <td align="center"><a href="examples/face/README.md"><img src="examples/face/59ECFEE5-B9BF-40BA-A2DA-BC3E0655F5C3.png" width="300px" alt=""/><br /><sub><b>Iso</b></sub></a><br /></td>
 
   <tr>
