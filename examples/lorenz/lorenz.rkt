@@ -44,9 +44,9 @@
         (vector-set! dydt-in 2 (vector-ref dydt-out 2))
         (set! t (+ t h))
         (loop)))
-    (define x-z (plot (lines (map vector y0-values y2-values) #:color "blue")
+    (plot (lines (map vector y0-values y2-values) #:color "blue")
           #:x-label "x"
-          #:y-label "z"))
-    x-z))
+          #:y-label "z"
+          #:out-file "lorenz.svg")))
 
 (main 10.0 28. (/ 8. 3.))
