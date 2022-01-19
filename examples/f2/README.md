@@ -2,7 +2,7 @@
 
 Description here
 
-![f1](f2.png)
+![f2](f2.png)
 
 
 ```scheme
