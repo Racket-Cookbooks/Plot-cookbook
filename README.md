@@ -32,6 +32,7 @@ Contributions are accepted on the condition they are licenced under the same ter
   <tr>
   <tr>
 	<td align="center"><a href="examples/colorbar/README.md"><img src="examples/colorbar/colorbar.svg" width="300px" alt=""/><br /><sub><b>Colorbar</b></sub></a><br /></td>
+	<td align="center"><a href="examples/lorenz/README.md"><img src="examples/lorenz/lorenz.svg" width="300px" alt=""/><br /><sub><b>Lorenz</b></sub></a><br /></td>
   <tr>
 </table>
 
