@@ -42,4 +42,4 @@
    #:y-min -1.5 #:y-max 2))
 ```
 
-Thanks to Levon/Bedivere on Racket Discord [![Racket Discord](https://img.shields.io/discord/571040468092321801?label=Chat%20on%20Racket%20Discord&logo=racket)](https://discord.gg/6Zq8sH5)
+Thanks to [Levon](https://github.com/racket-raccoon) aka Bedivere on Racket Discord [![Racket Discord](https://img.shields.io/discord/571040468092321801?label=Chat%20on%20Racket%20Discord&logo=racket)](https://discord.gg/6Zq8sH5)
