@@ -33,6 +33,7 @@ Contributions are accepted on the condition they are licenced under the same ter
   <tr>
 	<td align="center"><a href="examples/colorbar/README.md"><img src="examples/colorbar/colorbar.svg" width="300px" alt=""/><br /><sub><b>Colorbar</b></sub></a><br /></td>
 	<td align="center"><a href="examples/rose/README.md"><img src="examples/rose/rose.svg" width="300px" alt=""/><br /><sub><b>Rose</b></sub></a><br /></td>
+	<td align="center"><a href="examples/radian-ticks/README.md"><img src="examples/radian-ticks/radian-ticks.png" width="300px" alt=""/><br /><sub><b>Radian tick marks</b></sub></a><br /></td>
 	
   <tr>
 </table>
