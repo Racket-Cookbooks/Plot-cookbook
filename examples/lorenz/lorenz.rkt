@@ -1,5 +1,5 @@
 #lang racket
-(require (planet williams/science/ode-initval)
+(require science/ode-initval
          plot)
  
 (define (lorenz t y dy params)
